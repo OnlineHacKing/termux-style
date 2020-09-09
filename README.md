@@ -12,16 +12,12 @@ Simple script to change color-schemes and fonts for [Termux](https://termux.com)
 Follow the steps below - 
 
 ```bash
-# go to home dir - 
 cd $HOME
 
-# clone this repository - 
 git clone https://github.com/onlinehacking/termux-style
 
-# change to termux-style dir -
 cd termux-style
 
-# to install it, run -
 ./install
 
 # And Follow the steps, it'll be installed on your system.
