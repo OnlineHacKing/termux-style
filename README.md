@@ -1,8 +1,3 @@
-<!-- Links -->
-[bmac]: https://www.buymeacoffee.com/adi1090x
-[ko-fi]: https://ko-fi.com/adi1090x
-[paypal]: https://www.paypal.me/adi1090x
-[patreon]: https://www.patreon.com/adi1090x
 
 # Termux Style
 
@@ -38,7 +33,7 @@ Follow the steps below -
 cd $HOME
 
 # clone this repository - 
-git clone https://github.com/adi1090x/termux-style
+git clone https://github.com/onlinehacking/termux-style
 
 # change to termux-style dir -
 cd termux-style
